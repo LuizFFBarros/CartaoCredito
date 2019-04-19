@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CartaoCredito.Controllers
 {
-    [Route("api/CartaoCredito")]
+    [Route("v1/api/CartaoCredito")]
     [ApiController]
     public class CartaoCreditoController : ControllerBase
     {
